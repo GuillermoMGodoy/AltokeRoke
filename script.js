@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 3, name: 'Combo Smirnoff + Jugo Naranja', price: 12.00, image: './img/Combo Vodka.png', category: 'combos' },
         // Bebidas Alcohólicas
         { id: 4, name: 'Whisky Johnnie Walker Black Label', price: 35.00, image: './img/Whisky Johnnie Walker Black Label.png', category: 'spirits' },
-        { id: 5, name: 'Ron Havana Club 7 Años', price: 22.00, image: 'https://via.placeholder.com/300x300.png?text=Havana+7', category: 'spirits' },
+        { id: 5, name: 'Ron Havana Club 7 Años', price: 22.00, image: './img/Ron Havana Club 7 Años.png', category: 'spirits' },
         { id: 6, name: 'Cerveza Corona Pack x6', price: 8.50, image: 'https://via.placeholder.com/300x300.png?text=Corona+Pack', category: 'spirits' },
         { id: 7, name: 'Vino Malbec Rutini', price: 18.00, image: 'https://via.placeholder.com/300x300.png?text=Vino+Rutini', category: 'spirits' },
         // Gaseosas
